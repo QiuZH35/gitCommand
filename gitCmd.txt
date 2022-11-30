@@ -1,3 +1,4 @@
+#上传单个文件不能超过25M
 ssh-keygen -t rsa -C “your@email” #ssh 密钥生成,连续按几次enter ,可以获得ssh的保存位置
 
 git init                                                  # 初始化本地git仓库（创建新仓库）
